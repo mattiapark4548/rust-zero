@@ -3,3 +3,4 @@ name = "rust-zero"
 version = "0.1.0"
 edition = "2021"
 description = "A web and RPC framework written in Rust."
+# match the style used in the rest of the module
